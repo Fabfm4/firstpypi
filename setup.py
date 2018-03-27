@@ -8,6 +8,6 @@ setup(
     author_email='favian.flone92@gmail.com',
     url='https://github.com/Fabfm4/firstpypi',
     download_url='https://github.com/Fabfm4/firstpypi/tarball/0.1',
-    keywords=['HelloWorld'],
+    keywords=['HelloWorld', 'firstpypiFab'],
     classifiers=[],
 )
